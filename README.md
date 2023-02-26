@@ -11,4 +11,6 @@ Then parse the data:
 Then finally run the python notebook
 ```plot_pca.ipynb```
 
+Results for Chromosome 22:
+![res](results.png)
 
